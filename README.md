@@ -1,12 +1,1 @@
- function getPersonalData() {
-        return {
-            name: 'Anais Torrens',
-            insterests: 'AI, 3D modeling, mobile apps, videogames & web development',
-            currently_learning: 'Mobile apps development, python, typescript, design patterns',
-            languages: ['English', 'Spanish'],
-            programming_languages: ['Javascript', 'Typescript', 'Python'],
-            frameworks: ['Vuejs2', 'Vuejs3', 'Nuxt', 'Quasar', 'Node', 'Express', 'Solid'],
-            known_dbs: ['MongoDB', 'Postgree'],
-            knows_git: true
-        }
-    }
+![carbon(1)](https://user-images.githubusercontent.com/94393330/142002220-1657370f-5b1d-4e76-8cd1-5a1f1beb8ae3.png)
